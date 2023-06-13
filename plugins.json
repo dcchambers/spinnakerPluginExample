@@ -20,7 +20,7 @@
         "sha512sum": "f8b674062ac5612abec33bb21556f2ead1b39cd32cc8cff503a29ee261779ae2d4e8a744fb181b3a0d2bc1abb8f12a9472746e7a543b78be6ea3a8507b72821e",
         "preferred": false,
         "compatibility": [],
-        url: "https://github.com/dcchambers/spinnakerPluginExample/releases/download/v0.0.4/spinnakerPluginExample-0.0.4.zip"
+        "url": "https://github.com/dcchambers/spinnakerPluginExample/releases/download/v0.0.4/spinnakerPluginExample-0.0.4.zip"
       }
     ]
   }
